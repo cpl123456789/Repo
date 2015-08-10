@@ -9,7 +9,7 @@
     <Settings VerticalScrollBarMode="Visible" VerticalScrollableHeight="350" />
     <Paddings Padding="1px" />
     <Border BorderWidth="0px" />
-    <BorderBottom BorderWidth="1px" />
+    <BorderBottom BorderWidth="0px" />
     <%-- DXCOMMENT: Configure ASPxGridView's columns in accordance with datasource fields --%>
     <Columns>
         <dx:GridViewDataTextColumn FieldName="ContactName" VisibleIndex="2">
