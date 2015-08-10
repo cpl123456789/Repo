@@ -7,7 +7,7 @@
     Width="100%">
     <SettingsPager PageSize="32" />
     <Settings VerticalScrollBarMode="Visible" VerticalScrollableHeight="350" />
-    <Paddings Padding="0px" />
+    <Paddings Padding="1px" />
     <Border BorderWidth="0px" />
     <BorderBottom BorderWidth="1px" />
     <%-- DXCOMMENT: Configure ASPxGridView's columns in accordance with datasource fields --%>
